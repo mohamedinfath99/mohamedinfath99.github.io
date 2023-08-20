@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ec501ad.css",
-    "main.js": "/static/js/main.ff5fb1ff.js",
-    "static/media/code.gif": "/static/media/code.ce2545ff0f4128e66917.gif",
-    "static/media/unnamed.jpg": "/static/media/unnamed.6c2a9bf51a2139213c93.jpg",
-    "static/media/inf99.pdf": "/static/media/inf99.2025281f0cf350e50477.pdf",
-    "static/media/pic1.png": "/static/media/pic1.bdfc2be68fd8b2a33e2d.png",
-    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/pic4.png": "/static/media/pic4.5dff644c828d27b6b985.png",
-    "static/media/pic3.png": "/static/media/pic3.cf884a801ac992282db8.png",
-    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
-    "static/media/Cardiff-Met.jpg": "/static/media/Cardiff-Met.c08e757d5312fe840ff9.jpg",
-    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
-    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
-    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
-    "index.html": "/index.html",
-    "main.7ec501ad.css.map": "/static/css/main.7ec501ad.css.map",
-    "main.ff5fb1ff.js.map": "/static/js/main.ff5fb1ff.js.map"
+    "main.css": "/portfolio/static/css/main.7ec501ad.css",
+    "main.js": "/portfolio/static/js/main.41c74c1d.js",
+    "static/media/code.gif": "/portfolio/static/media/code.ce2545ff0f4128e66917.gif",
+    "static/media/unnamed.jpg": "/portfolio/static/media/unnamed.6c2a9bf51a2139213c93.jpg",
+    "static/media/inf99.pdf": "/portfolio/static/media/inf99.2025281f0cf350e50477.pdf",
+    "static/media/pic1.png": "/portfolio/static/media/pic1.bdfc2be68fd8b2a33e2d.png",
+    "static/media/glassesimoji.png": "/portfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/pic4.png": "/portfolio/static/media/pic4.5dff644c828d27b6b985.png",
+    "static/media/pic3.png": "/portfolio/static/media/pic3.cf884a801ac992282db8.png",
+    "static/media/thumbup.png": "/portfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/Cardiff-Met.jpg": "/portfolio/static/media/Cardiff-Met.c08e757d5312fe840ff9.jpg",
+    "static/media/humble.png": "/portfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/portfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/portfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/portfolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/glasses.png": "/portfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/portfolio/index.html",
+    "main.7ec501ad.css.map": "/portfolio/static/css/main.7ec501ad.css.map",
+    "main.41c74c1d.js.map": "/portfolio/static/js/main.41c74c1d.js.map"
   },
   "entrypoints": [
     "static/css/main.7ec501ad.css",
-    "static/js/main.ff5fb1ff.js"
+    "static/js/main.41c74c1d.js"
   ]
 }
