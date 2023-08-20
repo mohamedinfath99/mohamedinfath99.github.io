@@ -30,16 +30,16 @@ const Contact = () => {
           console.log(error.text);
         }
       );
-      e.target.reset()
+    e.target.reset()
   };
 
   return (
-    <div className="contact-form" id="contact">
-    
+    <div className="contact-form" id="Contact">
+
       <div className="w-left">
         <div className="awesome">
-        
-          <span style={{color: darkMode?'white': ''}}>Get in Touch</span>
+
+          <span style={{ color: darkMode ? 'white' : '' }}>Get in Touch</span>
           <span>Contact me</span>
 
           <div
@@ -51,13 +51,13 @@ const Contact = () => {
       </div>
 
 
-     
+
       <div className="c-right">
         <form ref={form} onSubmit={sendEmail}>
-          <input type="text" name="user_name" className="user"  placeholder="Name" required/>
-          <input type="email" name="user_email" className="user" placeholder="Email" required/>
-          <textarea name="message" className="user" placeholder="Message" required/>
-          <input type="submit" value="Send" className="button"/>
+          <input type="text" name="user_name" className="user" placeholder="Name" required />
+          <input type="email" name="user_email" className="user" placeholder="Email" required />
+          <textarea name="message" className="user" placeholder="Message" required />
+          <input type="submit" value="Send" className="button" />
           <span>{done && "Thanks for Contacting me"}</span>
           <div
             className="blur c-blur1"

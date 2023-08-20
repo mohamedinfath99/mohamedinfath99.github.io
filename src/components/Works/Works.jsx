@@ -6,7 +6,7 @@ import Experience from "../Experience/Experience";
 
 const Works = () => {
   return (
-    <div className="works" id="works">
+    <div className="works" id="Experience">
 
       <div className="w-left">
         <div className="awesome">

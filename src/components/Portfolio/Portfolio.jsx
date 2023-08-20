@@ -1,6 +1,6 @@
-import React  from "react";
+import React from "react";
 import "./Portfolio.css";
-import { Swiper, SwiperSlide } from 'swiper/react';import "swiper/css";
+import { Swiper, SwiperSlide } from 'swiper/react'; import "swiper/css";
 import Sidebar from "../../img/pic4.png";
 import Ecommerce from "../../img/pic3.png";
 import MusicApp from "../../img/pic1.png";
@@ -9,7 +9,7 @@ import MusicApp from "../../img/pic1.png";
 
 const Portfolio = () => {
   return (
-    <div className="portfolio" id="portfolio">
+    <div className="portfolio" id="Project">
       <span>Recent Projects</span>
       <span>Portfolio</span>
 
@@ -20,6 +20,13 @@ const Portfolio = () => {
         grabCursor={true}
         className="portfolio-slider"
       >
+
+        <SwiperSlide>
+          <a href='https://github.com/mohamedinfath99/eCommerce-application.git' target="_blank" rel="noopener noreferrer">
+            <img src={MusicApp} alt="" />
+          </a>
+        </SwiperSlide>
+
         <SwiperSlide>
           <a href='https://github.com/mohamedinfath99/hotel-booking-app.git' target="_blank" rel="noopener noreferrer">
             <img src={Sidebar} alt="" />

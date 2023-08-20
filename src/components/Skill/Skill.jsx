@@ -20,7 +20,7 @@ const Skill = () => {
   };
 
   return (
-    <div className="services" id="skill">
+    <div className="services" id="Skill">
 
       <div className="awesome">
 

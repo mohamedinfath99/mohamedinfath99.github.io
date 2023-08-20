@@ -5,7 +5,7 @@ import "./Experience.css";
 
 const Experience = () => {
   return (
-    <div className="experience" id='experience'>
+    <div className="experience" id='Experience'>
 
       <div className="achievement">
         <div className="circle" style={{ color: 'var(--orange)' }}>6+</div>
